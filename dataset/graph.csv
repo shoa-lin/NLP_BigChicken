@@ -1,0 +1,16 @@
+<http://example.org/dataset>,<http://example.org/CN>,"1"
+<http://example.org/dataset>,<http://example.org/EN> "1"
+<http://example.org/dataset>,<http://example.org/Cite> "1"
+<http://example.org/dataset>,<http://www.w3.org/2000/01/rdf-schema#Container>,"1"
+<http://example.org/dataset>,<http://example.org/Creator>,"1"
+<http://example.org/CN>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://www.w3.org/2002/07/owl#DatatypeProperty>
+<http://example.org/ID>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://www.w3.org/2002/07/owl#DatatypeProperty>
+<http://example.org/Creator>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://www.w3.org/2002/07/owl#DatatypeProperty>
+<http://example.org/EN>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://www.w3.org/2002/07/owl#DatatypeProperty>
+<http://example.org/Cite>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://www.w3.org/2002/07/owl#DatatypeProperty>
+<http://example.org/dataset>,<http://example.org/ID>,"1"
+<http://example.org/Jack>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://www.w3.org/2002/07/owl#NamedIndividual>
+<http://example.org/Jack>,<http://example.org/create>,<http://example.org/dataset>
+<http://example.org/create>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://www.w3.org/2000/01/rdf-schema#Container>
+<http://example.org/dataset>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://www.w3.org/2002/07/owl#NamedIndividual>
+
