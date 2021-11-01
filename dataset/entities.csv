@@ -1,3 +1,3 @@
-entity:ID,name,:LABEL
+ID,name,LABEL
 e1,dataset1,datasource
 e2,dataset2,datasource
